@@ -25,7 +25,7 @@ Carezma Server..
 الرابط
 
 
- [https://discord.gg/jW9GGnU]
+ https://discord.gg/4s5VNZu]
 @everyone
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -49,7 +49,7 @@ Carezma Ser
 الرابط
 
 
-[https://discord.gg/jW9GGnU]
+[https://discord.gg/4s5VNZu]
 @everyone
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
